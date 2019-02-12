@@ -1,3 +1,2 @@
-# rpb3c6
+# Real Python (Training/Learning) project - please ignore
 
-# testing
