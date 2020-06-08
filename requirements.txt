@@ -1,4 +1,4 @@
-Django==1.11.28
+Django==1.11.29
 mock==1.0.1
 psycopg2==2.6
 requests==2.20.0
